@@ -9,3 +9,5 @@ org.bluez.obex.service.in.patch
 Fix-typo.patch
 shared-gatt-client-Fix-segfault-after-PIN-entry.patch
 main.conf-Add-more-details-Closes-904212.patch
+#deepin
+fix_daemon_failed_restart.patch
